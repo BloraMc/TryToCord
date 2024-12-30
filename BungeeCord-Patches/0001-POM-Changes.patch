@@ -192,8 +192,8 @@ index 4b94f112..d245a60b 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-config</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
-+    <artifactId>waterfall-config</artifactId>
++    <groupId>io.github.trytocord</groupId>
++    <artifactId>TryToCord-config</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
  
@@ -222,7 +222,7 @@ index 84711f0f..2ac455cc 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-event</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-event</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -242,7 +242,7 @@ index 0091af13..3851e6ce 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-parent</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-parent</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -250,7 +250,7 @@ index 0091af13..3851e6ce 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-log</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-log</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -268,7 +268,7 @@ index 0091af13..3851e6ce 100644
          <dependency>
 -            <groupId>net.md-5</groupId>
 -            <artifactId>bungeecord-chat</artifactId>
-+            <groupId>io.github.waterfallmc</groupId>
++            <groupId>io.github.trytocord</groupId>
 +            <artifactId>waterfall-chat</artifactId>
              <version>${project.version}</version>
              <scope>compile</scope>
@@ -283,7 +283,7 @@ index fd6bb27e..07b901a3 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-module</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-module</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -291,7 +291,7 @@ index fd6bb27e..07b901a3 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-module-cmd-alert</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-module-cmd-alert</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -306,7 +306,7 @@ index a679a54a..e3a8a06d 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-module</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-module</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -314,7 +314,7 @@ index a679a54a..e3a8a06d 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-module-cmd-find</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-module-cmd-find</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -329,7 +329,7 @@ index 8f79be48..3a45cb54 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-module</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-module</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -337,7 +337,7 @@ index 8f79be48..3a45cb54 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-module-cmd-kick</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-module-cmd-kick</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -352,7 +352,7 @@ index 39e7b998..933fc3ed 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-module</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-module</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -360,7 +360,7 @@ index 39e7b998..933fc3ed 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-module-cmd-list</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-module-cmd-list</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -375,7 +375,7 @@ index fe51d004..6b3e2e87 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-module</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-module</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -383,7 +383,7 @@ index fe51d004..6b3e2e87 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-module-cmd-send</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-module-cmd-send</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -398,7 +398,7 @@ index bc1409aa..45cca078 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-module</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-module</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -406,7 +406,7 @@ index bc1409aa..45cca078 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-module-cmd-server</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-module-cmd-server</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -421,7 +421,7 @@ index cea355bd..b946e1bd 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-parent</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-parent</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -429,7 +429,7 @@ index cea355bd..b946e1bd 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-module</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-module</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>pom</packaging>
@@ -446,7 +446,7 @@ index cea355bd..b946e1bd 100644
  
      <properties>
 -        <module.author>SpigotMC</module.author>
-+        <module.author>WaterfallMC</module.author>
++        <module.author>TryToCord</module.author>
          <maven.deploy.skip>true</maven.deploy.skip>
          <maven.javadoc.skip>true</maven.javadoc.skip>
      </properties>
@@ -455,7 +455,7 @@ index cea355bd..b946e1bd 100644
          <dependency>
 -            <groupId>net.md-5</groupId>
 -            <artifactId>bungeecord-api</artifactId>
-+            <groupId>io.github.waterfallmc</groupId>
++            <groupId>io.github.trytocord</groupId>
 +            <artifactId>waterfall-api</artifactId>
              <version>${project.version}</version>
              <scope>compile</scope>
@@ -470,7 +470,7 @@ index f1fb430a..66e8e0b4 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-module</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-module</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -478,7 +478,7 @@ index f1fb430a..66e8e0b4 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-module-reconnect-yaml</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-module-reconnect-yaml</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -493,7 +493,7 @@ index bd3a8ab8..49347e1d 100644
      <parent>
 -        <groupId>net.md-5</groupId>
 -        <artifactId>bungeecord-parent</artifactId>
-+        <groupId>io.github.waterfallmc</groupId>
++        <groupId>io.github.trytocord</groupId>
 +        <artifactId>waterfall-parent</artifactId>
          <version>1.21-R0.1-SNAPSHOT</version>
          <relativePath>../pom.xml</relativePath>
@@ -501,7 +501,7 @@ index bd3a8ab8..49347e1d 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-native</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-native</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>jar</packaging>
@@ -523,7 +523,7 @@ index 7335e8b7..b882440f 100644
  
 -    <groupId>net.md-5</groupId>
 -    <artifactId>bungeecord-parent</artifactId>
-+    <groupId>io.github.waterfallmc</groupId>
++    <groupId>io.github.trytocord</groupId>
 +    <artifactId>waterfall-parent</artifactId>
      <version>1.21-R0.1-SNAPSHOT</version>
      <packaging>pom</packaging>
@@ -539,8 +539,8 @@ index 7335e8b7..b882440f 100644
      <organization>
 -        <name>SpigotMC</name>
 -        <url>https://github.com/SpigotMC</url>
-+        <name>WaterfallMC</name>
-+        <url>https://github.com/WaterfallMC</url>
++        <name>TryToCord</name>
++        <url>https://github.com/trytocord</url>
      </organization>
      <licenses>
          <license>
@@ -574,12 +574,12 @@ index 7335e8b7..b882440f 100644
 -        <url>git@github.com:SpigotMC/BungeeCord.git</url>
 +        <connection>scm:git:git@github.com:com:WaterfallMC/Waterfall.git</connection>
 +        <developerConnection>scm:git:git@github.com:WaterfallMC/Waterfall.git</developerConnection>
-+        <url>git@github.com:WaterfallMC/Waterfall.git</url>
++        <url>git@github.com:trytocord/trytocord.git</url>
      </scm>
      <issueManagement>
          <system>GitHub</system>
 -        <url>https://github.com/SpigotMC/BungeeCord/issues</url>
-+        <url>https://github.com/PaperMC/Waterfall/issues</url>
++        <url>https://github.com/PaperMC/trytocord/issues</url>
      </issueManagement>
 -    <ciManagement>
 -        <system>jenkins</system>
