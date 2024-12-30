@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.trytocord</groupId>
-    <artifactId>trytocord-super</artifactId>
+    <artifactId>trytocord</artifactId>
     <version>dev-SNAPSHOT</version>
     <packaging>pom</packaging>
 
